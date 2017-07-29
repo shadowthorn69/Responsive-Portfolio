@@ -1,6 +1,18 @@
+@media screen and (max-width:960px) {
+  /* CSS for screens that are 960 pixels or less will be put in this section */
+  width: 960px ;
+  max-width: 960px ;
+}
+
 @media screen and (max-width:768px) {
-  /* CSS for screens that are 320 pixels or less will be put in this section */
+  /* CSS for screens that are 768 pixels or less will be put in this section */
   width: 768px ;
+  max-width: 768px ;
+}
+@media screen and (max-width:640px) {
+  /* CSS for screens that are 640 pixels or less will be put in this section */
+  width: 640px ;
+  max-width: 640px ;
 }
 
 body {
