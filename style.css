@@ -14,8 +14,6 @@
   /* CSS for screens that are 640 pixels or less will be put in this section */
   width: 640px ;
   max-width: 640px ;
-  #masthead {
-    position: static;
 }
 
 body {
