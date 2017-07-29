@@ -238,10 +238,10 @@ input[type=submit] {
   border: 0 none;
 }
 
-@media only screen and (max-width: 960px) {
+@media only screen and (max-width: 980px) {
     /* For computers: */
     [class*="col-"] {
-        width: 960px;
+        width: 980px;
     }
 }
 
