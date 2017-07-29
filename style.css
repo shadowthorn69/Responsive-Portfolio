@@ -256,5 +256,18 @@ input[type=submit] {
     /* For mobile phones: */
     [class*="col-"] {
         width: 640px;
+      
+        /* header 640px */
+
+          #masthead {
+            position: static;
+            z-index: 99;
+            width: 100%;
+            margin: 0 0 30px;
+            overflow: auto;
+            color: #fff;
+            background: #fff;
+            border-bottom: 2px solid #ccc;
+}
     }
 }
